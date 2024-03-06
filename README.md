@@ -10,11 +10,11 @@ Something transgender and LGBT-related
 4. [WIKI](https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5)
 5. [SOC-8 DOC](https://project-trans.org/SOC-8/soc8cn/)
 6. [Shizu's HRT Guide](https://docs.hrt.guide/)
+7. [RLE.WIKI](https://rle.wiki/)
 ## MTF
 1. [MTF.WIKI](https://mtf.wiki)
 2. [MtF-Certificate](https://kasuganoharuku.github.io/MtF-Certificate/)
-3. [RLE.WIKI](https://rle.wiki/)
-4. [Transfeminine Science](https://tfsci.mtf.wiki/)
+3. [Transfeminine Science](https://tfsci.mtf.wiki/)
 
 ## FTM
 
