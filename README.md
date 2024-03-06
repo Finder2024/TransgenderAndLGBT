@@ -8,9 +8,9 @@
     - [LESBIAN 女同性恋](#lesbian-女同性恋)
     - [GAY 男同性恋](#gay-男同性恋)
     - [Bisexual 双性恋者](#bisexual-双性恋者)
-- [文章/新闻](#文章新闻)
-- [音乐](#音乐)
-- [视频/电影](#视频电影)
+  - [文章/新闻](#文章新闻)
+  - [音乐](#音乐)
+  - [视频/电影](#视频电影)
   - [文章/小说](#文章小说)
   - [漫画](#漫画)
 
@@ -52,14 +52,14 @@ Collect articles and materials related to transgender and LGBTQ+
 ### GAY 男同性恋
 ***
 ### Bisexual 双性恋者
-# 文章/新闻
+## 文章/新闻
 1. [在跨性别青少年门诊，目睹中国家庭的撕裂](https://mp.weixin.qq.com/s/B98WfvjXm55WX2so4zpYSw)
 2. [流血洋葱如何同时脱掉一层又粘上一层皮](https://mp.weixin.qq.com/s/pWtTeFDhN-pIvaZFhDekRQ)
 3. [“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义](https://xinli.swjtu.edu.cn/info/1065/5833.htm)
 ***
-# 音乐
+## 音乐
 
-# 视频/电影
+## 视频/电影
 1. [跨性别题材短片《六月》](https://www.bilibili.com/video/BV1V4411T7x1)
 2. [人大附中跨性别电影《逃离》](https://www.bilibili.com/video/BV1Dx411b7wU/)
 3. [有性无别 (2016)](https://movie.douban.com/subject/26954005/)
