@@ -79,5 +79,4 @@ Collect articles and materials related to transgender and LGBTQ+
  1. [药娘的天空](https://transky.mtf.wiki/)
 ## 漫画
 ## 骄傲旗帜
- 1. [旗帜合集-维基百科]()
- 2. ![这是图片](./Files/flags/Asexual_Pride_Flag.svg)
+ 1. [旗帜合集-维基百科](flags.md)
