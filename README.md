@@ -1,6 +1,7 @@
 
 - [TransgenderAndLGBTQ+](#transgenderandlgbtq)
 - [More](#more)
+  - [234](#234)
   - [相关网页](#相关网页)
     - [ALL](#all)
     - [Trans 跨性别者](#trans-跨性别者)
@@ -24,6 +25,7 @@ Collect articles and materials related to transgender and LGBTQ+
 > # **梦想终会实现**
 ***
 # More
+  ## [234](./text.md)
 ## 相关网页
 ### ALL
 
